@@ -1,7 +1,7 @@
 {
   "name": "hotrestaurant",
   "version": "1.0.0",
-  "description": "",
+  "description": "make and view reservations in the hot city restaurant",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1"
